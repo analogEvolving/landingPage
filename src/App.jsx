@@ -7,7 +7,7 @@ function App() {
       <header className="flex py-2 justify-around items-center bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
         <img
           className="rounded-full border-2 border-white absolute top-4 sm:left-[20%]"
-          src={'/public/tokenImage.jpeg'}
+          src={'https://amber-genuine-frog-385.mypinata.cloud/ipfs/QmdnttUULgb2rRFgsPeChyQ1WDVg5kue4Fwy3RUCPvKUpt/tokenImage.jpeg'}
           width={100}
           height={100}
           alt=""
@@ -39,7 +39,7 @@ function App() {
             <FadedButton link="https://t.me/ANALevolving" text="Telegram" />
           </div>
           <div className="hidden md:block">
-            <img src="/public/tokenImage.jpeg" width={240} alt="" />
+            <img src="https://amber-genuine-frog-385.mypinata.cloud/ipfs/QmdnttUULgb2rRFgsPeChyQ1WDVg5kue4Fwy3RUCPvKUpt/tokenImage.jpeg" width={240} alt="" />
           </div>
         </div>
       </div>
@@ -56,7 +56,7 @@ function App() {
       <div className="flex justify-center py-4">
         <img
           className="w-32"
-          src="/public/poweredByAvalanche.svg"
+          src="https://amber-genuine-frog-385.mypinata.cloud/ipfs/QmdnttUULgb2rRFgsPeChyQ1WDVg5kue4Fwy3RUCPvKUpt/poweredByAvalanche.svg"
           alt="Powered by Avalanche"
         />
       </div>
