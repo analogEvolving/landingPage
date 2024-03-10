@@ -17,13 +17,13 @@ function App() {
         <a
           href="https://traderjoexyz.com/avalanche/trade?outputCurrency=0x152F0d588890Ef433814e6D83f72b062B52cb466"
           target="_blank"
-          className="h-10 w-[100px] hidden sm:flex text-gray-800 bg-white rounded shadow-xl hover:scale-110 duration-150 items-center justify-center"
+          className="h-10 w-[100px] hidden sm:flex text-gray-800 bg-white rounded shadow-xl hover:scale-110 duration-150 items-center justify-center "
         >
           BUY NOW
         </a>
       </header>
       <div className="flex h-[90%] flex-col items-center px-28 pt-28">
-        <h1 className="mb-12 text-4xl text-nowrap text-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+        <h1 className="mb-12 text-4xl text-nowrap text-bold text-transparent bg-clip-text bg-ultra-violet-300">
           BUY $ANAL
         </h1>
         <div className="flex items-center gap-32">
